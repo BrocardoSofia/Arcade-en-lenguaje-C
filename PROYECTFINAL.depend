@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1655212845 source:c:\users\usuario pc\downloads\proyectfinal\snake.c
+	"snake.h"
+
+1655170154 c:\users\usuario pc\downloads\proyectfinal\snake.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1655208713 source:c:\users\usuario pc\downloads\proyectfinal\tateti.c
+	"tateti.h"
+
+1655157028 c:\users\usuario pc\downloads\proyectfinal\tateti.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1655198638 source:c:\users\usuario pc\downloads\proyectfinal\ahorcado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"pila.h"
+	"ahorcado.h"
+
+1490097816 c:\users\usuario pc\downloads\proyectfinal\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1655198626 c:\users\usuario pc\downloads\proyectfinal\ahorcado.h
+
+1655167570 source:c:\users\usuario pc\downloads\proyectfinal\batallanaval.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"batallaNaval.h"
+
+1655155414 c:\users\usuario pc\downloads\proyectfinal\batallanaval.h
+
+1655215325 source:c:\users\usuario pc\downloads\proyectfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"pila.h"
+	"snake.h"
+	"tateti.h"
+	"batallaNaval.h"
+	"ahorcado.h"
+
+1490097816 source:c:\users\usuario pc\downloads\proyectfinal\pila.c
+	"pila.h"
+
+1655200924 source:c:\users\sofia\downloads\proyectfinal-20220614t151613z-001\proyectfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"pila.h"
+	"snake.h"
+	"tateti.h"
+	"batallaNaval.h"
+	"ahorcado.h"
+
+1490083416 c:\users\sofia\downloads\proyectfinal-20220614t151613z-001\proyectfinal\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1655155754 c:\users\sofia\downloads\proyectfinal-20220614t151613z-001\proyectfinal\snake.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1655142628 c:\users\sofia\downloads\proyectfinal-20220614t151613z-001\proyectfinal\tateti.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1655141014 c:\users\sofia\downloads\proyectfinal-20220614t151613z-001\proyectfinal\batallanaval.h
+
+1655184226 c:\users\sofia\downloads\proyectfinal-20220614t151613z-001\proyectfinal\ahorcado.h
+
